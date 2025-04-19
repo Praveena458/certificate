@@ -27,14 +27,18 @@
 https://github.com/Praveena458/certificate.git
 
 ```
+2. to check
 
-2. Install dependencies:
+   ````bash
+   https://certificate-dashboard.onrender.com/
+   
+3. Install dependencies:
 
 ```bash
 pnpm install
 ```
 
-3. Generate prisma:
+4. Generate prisma:
 
 ```bash
 npx prisma generate
